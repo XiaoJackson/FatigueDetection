@@ -4,8 +4,8 @@
 Python >= 3.7.2
 opencv-python >= 4.9.0.80
 opencv-contrib-python >= 4.9.0.80
-torch >= 1.13.0+cu117
-torchvision >= 0.14.0+cu117
+torch >= 1.9.0
+torchvision >= 0.10.0a0+300a8a4
 onnx >= 1.8.1
 onnxruntime >= 1.8.1
 MNN >= 2.8.1
